@@ -1041,6 +1041,7 @@ footer {
 }
 
 .info-block__list-link {
+  cursor: pointer;
   color: #0e7bab;
   font-size: 20px;
   font-weight: 500;
